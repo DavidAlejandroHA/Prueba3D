@@ -31,6 +31,10 @@ MonoBehaviour:
     m_Key: EfectoDemo
     m_Metadata:
       m_Items: []
+  - m_Id: 371005228789760
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
     - rid: 7806496423042351132

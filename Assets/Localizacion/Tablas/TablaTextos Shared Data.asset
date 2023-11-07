@@ -14,7 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: TablaTextos
   m_TableCollectionNameGuidString: 9352d810b9385834d90a9d5dc72c8573
-  m_Entries: []
+  m_Entries:
+  - m_Id: 432422203392
+    m_Key: Push me New Entry
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
